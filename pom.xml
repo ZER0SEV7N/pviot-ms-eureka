@@ -16,7 +16,10 @@
 	<url>https://github.com/ZER0SEV7N/pivot-ms-eureka</url>
 
 	<developers>
-		<developer/>
+		<developer>
+			<name>Daniel Enrique Singer Rojas</name>
+			<email>danielsinger07@hotmail.com</email>
+		</developer>
 	</developers>
 
 	<properties>

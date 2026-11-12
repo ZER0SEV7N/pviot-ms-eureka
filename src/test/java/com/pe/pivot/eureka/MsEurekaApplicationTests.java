@@ -1,4 +1,4 @@
-package com.pe.pivot.ms_eureka;
+package com.pe.pivot.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
